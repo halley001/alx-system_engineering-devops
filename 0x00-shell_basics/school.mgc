@@ -1,3 +1,2 @@
 #!/bin/bash
-file -C -m school.txt
-
+file -C -m School.txt
