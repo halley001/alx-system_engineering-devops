@@ -1,5 +1,5 @@
-Shell, basics
-Shell, navigations
-Shell, permissions
-Shell, I/O Redirections and filters
+Shell basics,
+Shell navigations,
+Shell permissions,
+Shell I/O Redirections and filters
 
